@@ -5,5 +5,7 @@ public class GitTest {
         System.out.println("IDEA集成Git");
         System.out.println("hello git!master分支");
         System.out.println("hello git!master分支");
+        System.out.println("hello git!hot-fix分支");
+        System.out.println("hello git!hot-fix分支");
     }
 }
