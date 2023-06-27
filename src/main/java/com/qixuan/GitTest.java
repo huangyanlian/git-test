@@ -2,8 +2,8 @@ package com.qixuan;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("hello git!");
-        System.out.println("hello git!");
-        System.out.println("hello git!");
+        System.out.println("hello git!333");
+        System.out.println("hello git!333");
+        System.out.println("hello git!333");
     }
 }
